@@ -1,0 +1,19 @@
+id: AB9B9DD4F
+title: Palchen Düpa Lineage Prayer
+type: translation
+pechas:
+- I61AC335D
+- IF68F94A5
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:42:23.366908
+  last_modified_at: 2023-01-04 11:42:23.366919
+  collections:
+  - Dodrupchen Jigme Tenpe Nyima Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I61AC335D/F3DF: 095D
+  IF68F94A5/E624: 095D
